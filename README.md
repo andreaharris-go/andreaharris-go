@@ -1,5 +1,6 @@
 👀 I, not only interest in networking but also love programming and like to learn something new, and happy to draw anime, follow me IG @duckdev84.
 # I'm Duckdev84 👀
+![My Codewarrior Profile Badge](https://www.codewars.com/users/andreaharris-go/badges/large)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Art+and+development+are+in+my+life.)](https://git.io/typing-svg)
 
