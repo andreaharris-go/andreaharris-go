@@ -7,6 +7,8 @@
 ## Follow me 🌍
 
 - [Instagram](https://www.instagram.com/duckdev84/)
+- [Medium](https://medium.com/@duckdev84)
+- [Youtube](https://www.youtube.com/@duckdev84)
 
 ## Skills 🚀
 
