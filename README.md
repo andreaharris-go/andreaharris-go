@@ -5,10 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Art+and+development+are+in+my+life.)](https://git.io/typing-svg)
 
 ## Follow me 🌍
-
-- [Instagram](https://www.instagram.com/duckdev84/)
-- [Medium](https://medium.com/@duckdev84)
-- [Youtube](https://www.youtube.com/@duckdev84)
+- [IG, Medium, Facebook, etc,.](https://linktr.ee/duckdev84)
 
 ## Skills 🚀
 
